@@ -1,13 +1,10 @@
-# Ignore Jupyter checkpoints
+# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore Python cache files
+# Ignore Python cache
 __pycache__/
+*.pyc
 
-# Ignore virtual environment folders
+# Ignore virtual environments
 .venv/
 venv/
-
-# Ignore OS/system files
-.DS_Store
-Thumbs.db
